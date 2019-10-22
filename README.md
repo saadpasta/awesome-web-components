@@ -21,11 +21,11 @@ Contributions of any kind are welcomed!
 
 # Contribution Guide!
 
-Fork this repository 
+- Fork this repository 
 
-Clone the repository
+- Clone the repository
 
-Create a folder and put your files inside the folder.
+- Create a folder and put your files inside the folder.
 
 Try to include Readme.md in your folder to help other developers.
 
