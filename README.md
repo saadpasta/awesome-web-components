@@ -1,10 +1,35 @@
-# Reuseable Web Components 🚀
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-> Small web components using Html, Css and Javascript for every Front End Developer.
+# Web Components 🚀
 
-> JavaScript and React Snippets 
+## Web Component and Snippets for every Front-End Developer.
 
-> Don't waste time creating small web components.
+### React Snippets 💣
+
+### JavaScript Snippets 🎊
+
+### Html And Css Snippets 🎉
+
+# Contribution
+
+- Do you have JavaScript Code that you want to share with everbody.
+
+- Have you developed an awesome card and want to help others.
+
+Please don't hesitate to open an [pull request](https://github.com/saadpasta/web-components/pulls).
+
+Contributions of any kind are welcomed!
+
+
+# Contribution Guide!
+
+Fork this repository 
+
+Clone the repository
+
+Create a folder and put your files inside the folder.
+
+Try to include Readme.md in your folder to help other developers.
+
+### Create a Awesome Merge Request 🚀
 
 
 ## Contributors ✨
