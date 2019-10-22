@@ -1,6 +1,6 @@
 # Get Github Repo Data Using GraphQL
 
-### This uses hooks and React.
+### This uses Hooks and React.
 
 ### Libraries Used 
 
