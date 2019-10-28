@@ -4,10 +4,10 @@
 
 ### React Snippets 💣
 
-- [Loader](./Loader/README.md)
-- [Responsive Blog Card](<./Responsive Blog Card/README.md>)
-- [Responsive Header](<./Responsive Header/README.md>)
-- [Social Media icons](<./Social Media/README.md>)
+- [Loading](./Loader/README.md)
+- [Blogs](<./Responsive Blog Card/README.md>)
+- [Header](<./Responsive Header/README.md>)
+- [socialMedia](<./Social Media/README.md>)
 
 ### JavaScript Snippets 🎊
 
