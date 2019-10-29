@@ -1,0 +1,27 @@
+.button {
+  min-width: 125px;
+  width: auto;
+  height: 45px;
+  line-height: 45px;
+  padding: 0 30px;
+  font-size: 15px;
+  background-color: #000;
+  color: #f7f7f7;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Open Sans Condensed';
+  font-weight: bolder;
+  cursor: pointer;
+  border: 1px solid #000;
+  transition: all 300ms;
+
+  &:hover {
+    background-color: #f7f7f7;
+    color: #000;
+  }
+
+  &:active {
+    transform: scale(0.95);
+    outline: none;
+  }
+}
