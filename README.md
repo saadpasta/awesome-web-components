@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/saadpasta"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt="Saad Pasta"/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/web-components/commits?author=saadpasta" title="Code">💻</a></td>
     <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4" width="100px;" alt="saeeddev"/><br /><sub><b>saeeddev</b></sub></a><br /><a href="https://github.com/saadpasta/web-components/commits?author=sa-js" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.facebook.com/hashir.shoaeb"><img src="https://avatars0.githubusercontent.com/u/35165481?v=4" width="100px;" alt="Hashir Shoaib"/><br /><sub><b>Hashir Shoaib</b></sub></a><br /><a href="https://github.com/saadpasta/web-components/commits?author=hashirshoaeb" title="Documentation">📖</a></td>
   </tr>
 </table>
 
