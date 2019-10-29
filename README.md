@@ -4,6 +4,11 @@
 
 ### React Snippets 💣
 
+- [Loading](./Loader/README.md)
+- [Blogs](<./Responsive Blog Card/README.md>)
+- [Header](<./Responsive Header/README.md>)
+- [socialMedia](<./Social Media/README.md>)
+
 ### JavaScript Snippets 🎊
 
 ### Html And Css Snippets 🎉
@@ -18,19 +23,21 @@ Please don't hesitate to open an [pull request](https://github.com/saadpasta/web
 
 Contributions of any kind are welcomed!
 
-
 # Contribution Guide!
 
-- Fork this repository 
+- Fork this repository to your GitHub account.
 
-- Clone the repository
+- Clone the forked repo from your account using :
+
+```bash
+  git clone https://github.com/<your-username>/web-components.git
+```
 
 - Create a folder and put your files inside the folder.
 
 Try to include Readme.md in your folder to help other developers.
 
 ### Create a Awesome Merge Request 🚀
-
 
 ## Contributors ✨
 
@@ -49,4 +56,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
