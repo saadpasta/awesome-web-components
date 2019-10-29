@@ -1,0 +1,13 @@
+.sign-in-form {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #f7f7f7;
+  padding: 20px;
+  margin-top: 20px;
+
+  h2 {
+    margin: 10px 0;
+  }
+}
