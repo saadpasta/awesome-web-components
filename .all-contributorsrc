@@ -40,11 +40,19 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "zaidakhterr",
+      "name": "Zaid Akhter",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/51528814?v=4",
+      "profile": "https://github.com/zaidakhterr",
+      "contributions": [
+        "code"
+      ]
     }
-    
   ],
   "contributorsPerLine": 7,
-  "projectName": "web-components",
+  "projectName": "awesome-web-components",
   "projectOwner": "saadpasta",
   "repoType": "github",
   "repoHost": "https://github.com"
