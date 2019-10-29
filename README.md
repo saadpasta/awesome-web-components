@@ -1,4 +1,4 @@
-# Web Components 🚀
+# Awesome Web Components 🚀
 
 ## Web Component and Snippets for every Front-End Developer.
 
