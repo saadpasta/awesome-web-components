@@ -4,11 +4,6 @@
 
 ### React Snippets 💣
 
-- [Loading](./Loader/README.md)
-- [Blogs](<./Responsive Blog Card/README.md>)
-- [Header](<./Responsive Header/README.md>)
-- [socialMedia](<./Social Media/README.md>)
-
 ### JavaScript Snippets 🎊
 
 ### Html And Css Snippets 🎉
