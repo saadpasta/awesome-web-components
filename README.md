@@ -1,4 +1,4 @@
-# Awesome Web Components 🚀
+# Awesome Web Components 🚀 [![GitHub](https://img.shields.io/github/license/saadpasta/awesome-web-components?color=blue)](https://github.com/saadpasta/awesome-web-components/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/saadpasta/awesome-web-components) ![GitHub forks](https://img.shields.io/github/forks/saadpasta/awesome-web-components)
 
 ## Web Component and Snippets for every Front-End Developer.
 
