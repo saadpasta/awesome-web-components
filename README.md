@@ -39,16 +39,21 @@ Try to include Readme.md in your folder to help other developers.
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/saadpasta"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt="Saad Pasta"/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=saadpasta" title="Code">💻</a></td>
-    <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4" width="100px;" alt="saeeddev"/><br /><sub><b>saeeddev</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=sa-js" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.facebook.com/hashir.shoaeb"><img src="https://avatars0.githubusercontent.com/u/35165481?v=4" width="100px;" alt="Hashir Shoaib"/><br /><sub><b>Hashir Shoaib</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=hashirshoaeb" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mohamedsgap/"><img src="https://avatars2.githubusercontent.com/u/30293804?v=4" width="100px;" alt="Mohamed Abdel Nasser"/><br /><sub><b>Mohamed Abdel Nasser</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=mohamedsgap" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/zaidakhterr"><img src="https://avatars1.githubusercontent.com/u/51528814?v=4" width="100px;" alt="Zaid Akhter"/><br /><sub><b>Zaid Akhter</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=zaidakhterr" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/saadpasta"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=saadpasta" title="Code">💻</a></td>
+    <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>saeeddev</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=sa-js" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.facebook.com/hashir.shoaeb"><img src="https://avatars0.githubusercontent.com/u/35165481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hashir Shoaib</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=hashirshoaeb" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mohamedsgap/"><img src="https://avatars2.githubusercontent.com/u/30293804?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Abdel Nasser</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=mohamedsgap" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zaidakhterr"><img src="https://avatars1.githubusercontent.com/u/51528814?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zaid Akhter</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=zaidakhterr" title="Code">💻</a></td>
+    <td align="center"><a href="https://hanzla.now.sh"><img src="https://avatars.githubusercontent.com/u/59178380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hanzla</b></sub></a><br /><a href="https://github.com/saadpasta/awesome-web-components/commits?author=1hanzla100" title="Code">💻</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

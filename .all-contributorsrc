@@ -49,11 +49,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "1hanzla100",
+      "name": "Hanzla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59178380?v=4",
+      "profile": "https://hanzla.now.sh",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "awesome-web-components",
   "projectOwner": "saadpasta",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
