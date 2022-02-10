@@ -1,0 +1,29 @@
+.card {
+    display: inline-block;
+    margin-top: 1%;
+    margin-left: 6%; 
+    width: 240px;
+    height: 150px;
+    background: rgb(235, 233, 233);
+    border-radius: 10px;
+}
+
+.card :link{
+    text-decoration: none;
+    color: black;
+}
+
+.card-heading {
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.card-content {
+    text-align: center;
+    margin: 10%;
+    color :rgb(137, 241, 62);
+    font-size: 40px;
+    font-weight: bolder;
+}
