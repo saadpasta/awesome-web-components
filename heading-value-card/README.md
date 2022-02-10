@@ -1,7 +1,7 @@
 # Heading Value Card
 
 ## Preview
-<img src="image.jpg"></img>
+<img src="image.png"></img>
 
 ### Usage
 
